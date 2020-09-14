@@ -21,7 +21,8 @@ Indices and tables
 
 
 Kostas **Aitsidis**
-+----------------+------------------------+
-.. _BinaryTree: https://www.binarytree.gr/
-.. image:: /images/ethnosimo.png
++----------------+----------------+---------------------------------------------+
+|.. image:: /images/ethnosimo.png |.. _BinaryTree: https://www.binarytree.gr/   |
++---------------------------------+---------------------------------------------+
+
 
